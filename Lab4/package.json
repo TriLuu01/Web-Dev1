@@ -1,0 +1,16 @@
+{
+  "name": "cs-546-lab4",
+  "version": "1.0.0",
+  "description": "My Lab4 Module",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Tri Luu 20007629",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.1.0"
+  }
+}
